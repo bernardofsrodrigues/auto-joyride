@@ -1,4 +1,4 @@
-# 🚗 Análise Técnica Completa do Projeto Auto Joyride
+# 🚗 Projeto Auto Joyride
 
 ## 📌 Contexto do Projeto
 
