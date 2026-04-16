@@ -6,9 +6,8 @@ A arquitetura do projeto adota um modelo de separação clara entre as camadas d
 • Build Tool:Vite - Hot Module Replacement (HMR) instantâneo e build otimizado.
 • Linguagem: TypeScript - Tipagem estática rigorosa para maior resiliência em tempo de compilação.
 • Estilização e Componentes: Tailwind CSS aliado à especificação do components.json (shadcn/ui) para componentes acessíveis e customizáveis.
-• Package Manager:Bun - Gerenciamento de dependências e execução de scripts de forma extremamente rápida.
 ⚙️ Backend (Micronaut)
-• Framework:Micronaut - Framework JVM focado em microserviços, com Injeção de Dependência (DI) resolvida em tempo de compilação, eliminando o overhead de reflection.
+• Framework: Micronaut - Framework JVM focado em microserviços, com Injeção de Dependência (DI) resolvida em tempo de compilação, eliminando o overhead de reflection.
 • Runtime Nativo: GraalVM Native Image - Compilação Ahead-of-Time (AOT) para inicialização em milissegundos e consumo de memória drasticamente reduzido.
 • Persistência de Dados: Micronaut Data via R2DBC para comunicação totalmente reativa e não-bloqueante com o banco de dados.
 • Banco de Dados: PostgreSQL.
