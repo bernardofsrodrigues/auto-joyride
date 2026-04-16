@@ -70,3 +70,17 @@ O sistema possui:
 ---
 
 ## 🛠️ Estrutura do Projeto
+
+```text
+auto-joyride/
+├── backend/                  # Serviço Micronaut
+│   ├── src/main/java/        # Código fonte da API e lógica de negócios
+│   ├── src/main/resources/   # Application.yml, migrations do Flyway
+│   ├── build.gradle          # Gerenciamento de dependências (Gradle)
+│   └── Dockerfile            # Imagem otimizada para a GraalVM
+├── frontend/                 # Interface do Usuário (Repositório atual)
+│   ├── src/                  # Componentes, Hooks, e Pages
+│   ├── public/               # Assets estáticos
+│   ├── vite.config.ts        # Configuração do bundler
+│   ├── tailwind.config.ts    # Design System e variáveis Tailwind
+│   └── components.json       # Configuração dos componentes base (shadcn)
