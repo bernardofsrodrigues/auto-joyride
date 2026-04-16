@@ -1,14 +1,4 @@
-# 🚗 PROMPT — Análise Técnica Completa do Projeto Auto Joyride
-
-Você deve atuar como um **Engenheiro de Software Sênior / Arquiteto de Sistemas**.
-
-Seu objetivo é analisar profundamente a arquitetura, tecnologias e estrutura do projeto descrito abaixo, gerando uma **documentação técnica completa, detalhada e profissional**, como se fosse utilizada para:
-
-- Onboarding de desenvolvedores
-- Auditoria técnica
-- Escalabilidade e evolução do sistema
-
----
+# 🚗 Análise Técnica Completa do Projeto Auto Joyride
 
 ## 📌 Contexto do Projeto
 
