@@ -29,3 +29,5 @@ auto-joyride/
 │   ├── vite.config.ts        # Configuração do bundler
 │   ├── tailwind.config.ts    # Design System e variáveis Tailwind
 │   └── components.json       # Configuração dos componentes base (shadcn)
+
+───
